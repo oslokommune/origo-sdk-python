@@ -1,4 +1,4 @@
-## ?.?.?
+## 0.3.1
 
 * Deprecated `origo-sdk-python` in favor of `origo-sdk`. The module contents
   has moved from the `origo` namespace to `origo.sdk`. Ie. `from
